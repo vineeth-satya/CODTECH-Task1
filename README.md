@@ -1,5 +1,11 @@
 # CODTECH-Task1
 
+Name:Satya Vineeth
+Company:CODTECH IT SOLUTIONS
+ID:CT6D603
+Domain:DevOps
+Duration:June 20th to August 5th
+
 In the CodTech intership Devops domain of task-1 I have created a CI/CD pipeline with Jenkins.
 
 I have Set up a continuous integration/continuous deployment (CI/CD) pipeline using
